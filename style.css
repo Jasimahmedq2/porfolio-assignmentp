@@ -1,0 +1,127 @@
+h1 span{
+    color: rgb(20, 20, 163);
+}
+  
+section{
+    display: flex;
+     
+}
+.half-width{
+    width: 50%;
+}
+    
+.half-width img{
+    width: 60%;margin-left: 60px;
+    
+  
+}
+a{  
+    text-decoration: none;
+    background-image: linear-gradient(tomato,red);
+    padding: 5px;
+      
+}
+.h1-aling{
+    text-align: center;
+}
+#box-shadow{
+    box-shadow: 10px 10px 40px gray;
+    margin: 5px; 
+    padding: 5px; 
+    background-image: url(illustrator-3.png);
+     background-position:top-left ;
+     background-repeat: no-repeat;
+    background-size: 50%;
+     background-color: rgb(212, 143, 14);
+     color: white;
+      
+}
+#box-shadow2{
+    box-shadow: 10px 10px 40px gray;
+    margin: 5px;
+    padding: 5px;
+    background-image: url(illustrator-2.png);
+    background-position: top-left;
+    background-repeat: no-repeat;
+    background-size: 50%;
+    background-color: darksalmon;
+    color:white ;
+}
+#box-shadow3{
+    box-shadow: 10px 10px 40px gray;
+    margin: 5px;
+    padding: 5px;
+    background-image: url(illustrator-1.png);
+    background-size: 50%;
+    background-repeat: no-repeat;
+    background-color: lightseagreen;
+     color: white;
+      
+    
+}
+#box-shadow p{
+     margin-top: 100px;
+}
+#box-shadow2 p{
+    margin-top: 100px;
+}
+#box-shadow3 p{
+    margin-top: 100px;
+}
+.margin-section3{
+    margin-top: 50px;margin-right: 50px;
+    background-image: url(shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 100px;
+     
+
+      
+}
+.margin-section3 img{
+    margin-left: 10px;
+}
+ 
+
+ 
+  
+.margin-section3 img{
+    width: 80%;
+}
+.margin-section4{
+    margin-top: 50px;
+    background-image: url(shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 200px;
+     background-position: right;
+     
+}
+.margin-section4 img{
+    margin-right: 30px;
+     
+}
+
+.contact-us{
+    text-align: center;
+}
+.new-link{
+    text-decoration: none;
+    background-image: none;
+    text-align: center;
+    margin-left: 25%;
+}
+h3{
+    text-align: center;
+    margin-top: 5px;
+}
+footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+footer span{
+    color: tomato;
+}
+footer h5{color: rgb(241, 232, 232);}
+
+  
+   
